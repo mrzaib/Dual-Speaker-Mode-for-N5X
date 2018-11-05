@@ -1,7 +1,28 @@
-# Magisk Module Template
+<h1>Dual Speaker Mode for N5X</h1>
 
-**Update `README.md` if you want to submit your module to the online repo!** This `README.md` will be shown in a Webview dialog when a user taps your module in Magisk Manager, so make sure to place some information / changelog / notes here.
+<h2>About</h2>
 
-If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
+This Module uses the Mixer file from this thread:
+<a href="https://forum.xda-developers.com/nexus-5x/themes-apps/n5x-dual-speaker-mod-nexus-5x-t3481424">[N5X] [DUAL SPEAKER] Dual Speaker Mod for Nexus 5X by sudarshan9096699669</a>
 
-For more information about modules and repos, please check the [official documentation](https://topjohnwu.github.io/Magisk/)
+Nexus 5X has 2 speakers but one is limited for calls only...<br>
+So this module enables the earpiece for media and your call speaker will work as secondary speaker
+
+<h2>Perfomance</h2>
+
+I've tested it on latest stock 8.1.0 (OPM7.181005.003, Oct 2018) & working without any problem or distortion in sound <br>
+<br>
+Call sound is not affected by this mod as it only enables the earpiece while playing media ( video, audio, ringtone, etc )
+
+<h2>Changes</h2>
+
+v1.0
+Initial release
+
+<h2>Support Thread:
+<a href="https://forum.xda-developers.com/nexus-5x/themes-apps/mod-dual-speaker-mode-n5x-systemlessly-t3863187"> [MOD][Magisk] Dual Speaker Mode for N5X systemlessly on Oreo by zaibansari20</a>
+
+<h2>Credits</h2>
+
+ Topjohnwu [Magisk repository]<br>
+ sudarshan9096699669 for his work ;)
