@@ -10,7 +10,7 @@ So this module enables the earpiece for media and your call speaker will work as
 
 <h2>Perfomance</h2>
 
-I've tested it on latest stock 8.1.0 (OPM7.181005.003, Oct 2018) & working without any problem or distortion in sound <br>
+Tested on latest stock 8.1.0 (OPM7.181005.003, Oct 2018) & working without any problem or distortion in sound <br>
 <br>
 Call sound is not affected by this mod as it only enables the earpiece while playing media ( video, audio, ringtone, etc )
 
