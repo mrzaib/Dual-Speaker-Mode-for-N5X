@@ -19,7 +19,7 @@ Call sound is not affected by this mod as it only enables the earpiece while pla
 v1.0
 Initial release
 
-<h2>Support Thread:
+<h2>Support Thread:</h2>
 <a href="https://forum.xda-developers.com/nexus-5x/themes-apps/mod-dual-speaker-mode-n5x-systemlessly-t3863187"> [MOD][Magisk] Dual Speaker Mode for N5X systemlessly on Oreo by zaibansari20</a>
 
 <h2>Credits</h2>
